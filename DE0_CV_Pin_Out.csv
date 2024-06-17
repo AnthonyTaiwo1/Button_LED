@@ -1,0 +1,6 @@
+To,Direction,Location,I/O Bank,VREF Group,I/O Standard,Reserved,Current Strength,Slew Rate,Differential Pair,Transceiver Analog Settings Protocol,VCCR_GXB/VCCT_GXB Voltage,Transceiver I/O Pin Termination,Transceiver Dedicated Refclk Pin Termination,Transmitter Common Mode Driver Voltage,Transmitter Slew Rate Control,Transmitter Differential Output Voltage,Receiver Buffer Common Mode Voltage,Strict Preservation
+Button_In[0],,PIN_U7,4A,B4A_N0,3.3-V LVTTL,,,,,,,,,,,,,
+Button_In[1],,PIN_W9,4A,B4A_N0,3.3-V LVTTL,,,,,,,,,,,,,
+Led_Out[0],,PIN_AA2,5A,B5A_N0,3.3-V LVTTL,,,,,,,,,,,,,
+Led_Out[1],,PIN_AA1,5A,B5A_N0,3.3-V LVTTL,,,,,,,,,,,,,
+Enable,,PIN_U13,5B,B5B_N0,3.3-V LVTTL,,,,,,,,,,,,,
