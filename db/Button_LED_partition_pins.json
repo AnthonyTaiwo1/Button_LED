@@ -1,0 +1,29 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "Led_Out[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Led_Out[1]",
+					"strict" : false
+				},
+				{
+					"name" : "Button_In[0]",
+					"strict" : false
+				},
+				{
+					"name" : "Enable",
+					"strict" : false
+				},
+				{
+					"name" : "Button_In[1]",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
